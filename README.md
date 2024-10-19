@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help the human society .
 - 💬 Ask me about software engineering,system design , database design , enterprise apps development ,DevOps process , project managements and ditital solutions.
 - 📫 How to reach me: https://github.com/mrkyaing/
-- 😄 Pronouns: He/Him/His.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mrkyaing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrkyaing/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@prodevmm) 
 
