@@ -1,4 +1,4 @@
-### Hello, Nice to see you 👋 I am mr kyaing from Myanmar. ☺️☺️
+### Hello, Nice to see you 👋 I am MG KYAING from Myanmar. ☺️☺️
 
 - 🔭 I’m currently working as a software engineer.
 - 🌱 I’m currently learning and being a human life.
