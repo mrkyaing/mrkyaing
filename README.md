@@ -1,5 +1,5 @@
-### Hello, Nice to see you 👋 I am MG KYAING from MYANMAR. ☺️☺️ 
-- 👦 You can called me MG 👌.
+### Hello, Nice to see you 👋 I am MG KYAING. ☺️☺️ 
+- 👦 You can be called as MG 👌.
 - 🔭 I’m currently working as a software engineer.
 - 🌱 I’m currently learning and being a human life.
 - 👯 I’m looking to collaborate and building the ICT solutions.
