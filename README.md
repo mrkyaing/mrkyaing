@@ -1,8 +1,8 @@
-### Hello, Nice to see you 👋 I am MG KYAING. ☺️☺️ 
-- 👦 You can be called as MG 👌.
-- 🔭 I’m currently working as a software engineer.
-- 🌱 I’m currently learning and being a human life.
-- 👯 I’m looking to collaborate and building the ICT solutions.
+### Hello, Nice to see you 👋 I'm MG KYAING. ☺️☺️ 
+- 👦 You can call me  MG 👌.
+- 🔭 I’m currently working as a software engineer , data engineer vs system analysis,design and development .
+- 🌱 I’m currently learning ICT stacks and being as a human life.
+- 👯 I’m looking the guys to collaborate and building the ICT solutions.
 - 🤔 I’m looking for help the human society .
 - 💬 Ask me about software engineering,system design , database design , enterprise apps development ,DevOps process , project managements and ditital solutions.
 - 📫 How to reach me: https://mrkyaing.github.io/profile/
